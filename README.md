@@ -232,5 +232,5 @@ Below are visual demonstrations of key functionalities within the Flex Yoga Admi
 
 ## Contributor
 
-[Rohit2593](https://github.com/Rohit2593)
-    - Email: [ragarwal2593@gmail.com](ragarwal2593@gmail.com)
+[Shrey Bansal](https://github.com/ThinkTank-SB)
+    - Email: [shreybansal31@gmail.com](shreybansal31@gmail.com)
